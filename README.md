@@ -24,7 +24,8 @@ The analysis revealed signs of a **SYN flood attack**, a type of DoS (Denial of 
 ---
 
 ## 📎 Attached File
-- `cybersecurity_incident_report.pdf`: Detailed breakdown of the incident, log analysis, and attack explanation.
+- [`analyzing_network_structure_security_vinicius.pdf`](./analyzing_network_structure_security_vinicius.pdf): Network diagram analysis and checklist identifying misconfigurations and improvement points.
+
 
 ---
 
